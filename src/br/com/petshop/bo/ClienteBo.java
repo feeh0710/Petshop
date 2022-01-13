@@ -10,5 +10,6 @@ public class ClienteBo {
 		cliente.setNome(nome);
 		cliente.setCpf(cpf);
 		cliente.setEndereco(endereco);
+		/// lsakjlfjsljjsfklsfl
 	}
 }
